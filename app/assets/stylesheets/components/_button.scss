@@ -1,0 +1,17 @@
+.btn-call-to-action {
+  border-radius: 50px !important;
+  background-color: #F9B9F2 !important;
+  color: white !important;
+  font-family: "helvetica" !important;
+  font-weight: bold !important;
+  letter-spacing: 2px;
+  padding: 12px 80px !important;
+  border: 3px solid #F9B9F2 !important;
+  transition: all 0.3s ease;
+}
+
+.btn-call-to-action:hover {
+  border: 3px solid #F9B9F2;
+  background-color: transparent !important;
+  color: #F9B9F2 !important;
+}
